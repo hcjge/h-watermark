@@ -4,7 +4,7 @@
 
 #### 项目截图
 
-![项目截图](https://img.picui.cn/free/2025/01/09/677fb71eee175.jpg)
+![项目截图](https://www.helloimg.com/i/2025/01/09/677fb87daaa45.jpg)
 
 #### 如果觉得好用支持一下哦
 
