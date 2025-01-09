@@ -1,0 +1,11 @@
+{
+	"main": "index.html",
+	"logo": "apple-touch-icon.png",
+	"features": [
+		{
+		  "code": "wm",
+		  "explain": "加水印",
+			"cmds":["水印", "加水印"]
+		}
+	]
+}
